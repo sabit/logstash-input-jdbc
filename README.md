@@ -115,6 +115,8 @@ Reading data from MySQL:
 	  }
 	}
 
+For Oracle driver, jdbc_driver_class must be prefixed with "Java::" (e.g. Java::oracle.jdbc.driver.OracleDriver).
+
 ## Contributing
 
 All contributions are welcome: ideas, patches, documentation, bug reports, complaints, and even something you drew up on a napkin.
